@@ -1,0 +1,186 @@
+
+/* body */
+body{
+    width:1448px;
+    height: 2068px;
+    font-family: 'Roboto Mono';font-size: 18px;
+    margin: auto;
+    
+
+}
+/* navigation buttons */
+.nav1{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 2%;
+
+    
+    
+    
+
+
+    
+    
+}
+
+.planButton{
+  padding: 15px 25px;
+  font-size: 16px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: white;
+  background-color: #FF764E;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+  margin-left: -10%;
+ 
+
+  
+  
+  
+  
+  
+
+}
+.learnButton{
+    padding: 15px 25px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: white;
+    background-color: #5ED3EB;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+    box-align: center;
+  
+
+    
+
+}
+.getButton{
+    padding: 15px 25px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: white;
+    background-color:#FFCD69;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+    box-align: right;
+    
+
+}
+
+/* Header - H1 & circle header Image controls */
+.headerImg{
+    border-radius: 50%;
+    width: 20%;
+    display: block;
+    margin-bottom: -15%;
+    margin-top: 4%;
+
+
+    
+    
+
+    
+
+}
+
+.header h1{
+    display: flex;
+    justify-content:space-evenly;
+    margin-top: -11%;
+    font-family: 'Chelsea Market', cursive;font-size: 80px;
+    
+    
+
+}
+.header p{
+    display: block;
+    align-content: center;
+    text-align: center;
+    margin-top: -1%;
+    width: 40%;
+    margin-left: 30%;
+}
+
+.header{
+    margin-bottom: 6%;
+    margin-top: -20%;
+    margin-left: 10%;
+    
+}
+
+   
+/* top block of text */
+
+.topBody{
+    display: block;
+    align-items: center;
+    margin: auto;
+    background-color: #ddb9a3;
+    color: white;
+    text-align: center;
+    padding: 1%;
+    margin-bottom: 1%;
+    
+}
+
+/* middle body & icon controls  */
+.midImg1{
+    width: 10%;
+    display: flex;
+    justify-content: center;
+    margin:auto;
+    
+    
+}
+.midImg2{
+    width: 10%;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    
+}
+
+
+
+.midBody{
+    display: block;
+    text-align: center;    
+}
+
+.midBody p{
+    width: 400px;
+    text-align: center;
+    margin: auto;
+}
+
+/* footer controls - need to crop .footerImg img correctly */
+.footerImg{
+    margin-top: 5%;
+    margin-bottom: 3%;
+    
+
+}
+.footerImg img{ 
+    display: flex;
+    justify-content: center;
+    height: 300px;
+    width: 100%;
+    object-fit: cover;
+    margin: auto;
+
+
+}
+
